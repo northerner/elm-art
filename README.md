@@ -1,3 +1,3 @@
 # Art with Elm
 
-![Example generated image](https://raw.githubusercontent.com/northerner/elm-art/master/example.svg)
+![Example generated image](https://cdn.rawgit.com/northerner/elm-art/master/example.svg)
